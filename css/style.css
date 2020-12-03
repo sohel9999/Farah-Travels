@@ -1,0 +1,21 @@
+body{
+	background-color: #E9EBEC;
+}
+header {
+  position: center;
+  width: 100%;
+  padding-top: 200px;
+  background-image: url("../images/banner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.payment{
+	position: center;
+  width: 100%;
+  padding-top: 200px;
+  background-image: url("../images/nebo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
